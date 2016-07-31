@@ -8,8 +8,10 @@ This API is used to both my DogDenity project, which identifies dog breed within
 This API is very simple and easy to use. There was no reason to make it complex!
 
 ## Website Demo
-![website](doc/CNN2.png)
-![website2](doc/CNN2.png)
+### API
+![website](API.png)
+### Website
+![website2](website3.png)
 
 
 ## Documentation
@@ -23,6 +25,5 @@ Powered by Swagger-UI: [FaceInfo REST API Documentation](http://faceinfo.fishpok
 - [flask-swagger](https://github.com/gangverk/flask-swagger)
 - [Swagger-UI](https://github.com/swagger-api/swagger-ui)
 - [OpenAPI Specification](https://github.com/OAI/OpenAPI-Specification/) (fla _Swagger Spec_)
-    - also see http://editor.swagger.io/ for a playground to help you write Swagger Spec
 - [OpenCV](http://opencv.org/)
 - [Keras](http://keras.io/)
